@@ -32,17 +32,16 @@ cd exr-metadata-inspector
 
 ### 3. Install Dependencies
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 #### 📦 Dependencies
 The app requires:
--numpy
--Pillow
--matplotlib
--OpenEXR
--Imath
--tkinter (usually included with Python)
+##### numpy
+##### Pillow
+##### matplotlib
+##### OpenEXR
+##### Imath
+##### tkinter (usually included with Python)
 
 You can install them manually:
 ```bash
@@ -58,11 +57,11 @@ python main.py
 1. Launch the app.
 2. Click "📂 Open EXR File" and select a .exr.
 3. Explore:
--Select channels from the dropdown.
--Switch between Grayscale and False Color modes.
--Use [AUTO] RGB Preview or [AUTO] RGBA Preview if available.
+##### Select channels from the dropdown.
+##### Switch between Grayscale and False Color modes.
+##### Use [AUTO] RGB Preview or [AUTO] RGBA Preview if available.
 
 Buttons:
--💾 Export Report → Save metadata to TXT.
--🖼️ Save Preview → Save current preview as PNG.
--📊 Show Histogram → View channel histogram.
+##### 💾 Export Report → Save metadata to TXT.
+##### 🖼️ Save Preview → Save current preview as PNG.
+##### 📊 Show Histogram → View channel histogram.
