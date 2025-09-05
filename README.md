@@ -72,6 +72,9 @@ python main.py
 
 
 ## 📸 Screenshot
+<img width="1247" height="827" alt="image" src="https://github.com/user-attachments/assets/eef6b3eb-5ced-4615-bd4e-e6fe4dc4dc5b" />
+<img width="1879" height="831" alt="image" src="https://github.com/user-attachments/assets/b1d6ef0b-b28a-48eb-a43a-4f4a1e7bfd0e" />
+
 
 
 
