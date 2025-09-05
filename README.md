@@ -72,3 +72,9 @@ python main.py
 
 
 ## 📸 Screenshot
+
+
+
+## 👨‍💻 Author
+Created by **Dwiky Gilang Imrodhani**  
+🔗 [GitHub Profile](https://github.com/dwikygilang)
